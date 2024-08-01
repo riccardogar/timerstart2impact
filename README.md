@@ -12,7 +12,7 @@ This is a screenshot of the project ⬇
 
 **Try the Project**
 
-You can try the project [here](https://timerstart2impact.netlify.app/).
+You can try the project [here](https://timermeditation.netlify.app).    
 
 **Technical Requirements**
 
